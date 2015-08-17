@@ -13,12 +13,6 @@
     "q": "1.4.x",
     "lodash": "3.10.x"
   },
-  "devDependencies": {
-    "coffee-script": "1.9.x",
-    "dotenv": "1.x",
-    "expect.js": "0.3.x",
-    "mocha": "2.2.x"
-  },
   "scripts": {
     "pretest": "npm run compile",
     "prepublish": "npm run compile",
